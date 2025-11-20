@@ -2,3 +2,4 @@
 *.parquet
 *.txt
 *.log
+*.csv
